@@ -12,7 +12,7 @@ import com.mr.draw.DrawPictureFrame;
  */
 public class Main {
 	/**
-	 * 主方法
+	 * 主方法。。。
 	 * 
 	 * @param args
 	 */
