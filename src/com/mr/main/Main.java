@@ -17,7 +17,7 @@ public class Main {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// test2
+		// test2-222
 		DrawPictureFrame frame = new DrawPictureFrame();
 		frame.setVisible(true);
 		
