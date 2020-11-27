@@ -19,5 +19,7 @@ public class Main {
 	public static void main(String[] args) {
 		DrawPictureFrame frame = new DrawPictureFrame();
 		frame.setVisible(true);
+		// modified in test1
+		
 	}
 }
