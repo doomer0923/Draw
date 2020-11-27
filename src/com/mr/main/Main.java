@@ -20,5 +20,8 @@ public class Main {
 		// test2
 		DrawPictureFrame frame = new DrawPictureFrame();
 		frame.setVisible(true);
+		
+		// origin
+		
 	}
 }
